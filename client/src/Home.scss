@@ -1,0 +1,46 @@
+#artr {
+    height: 502px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4em;
+}
+
+#about {
+    // height: 640px;
+    height: 100vh;
+    width: 100wh;
+
+    .aboutImg {
+  
+        width: 660px;
+        height: 693px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .about-content {
+
+        width: 660px;
+        height: 693px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 30px;
+    }
+}
+
+#gallery {
+    height: 100vh;
+    width: 100wh;
+ 
+}
+
+#content {
+    height: 100vh;
+    // height: 650px;
+    width: 100wh;
+    padding-top: 30px;
+    
+}
